@@ -188,4 +188,4 @@ Code consulted / used:
 
 ## License
 
-<!-- TODO: add a license (for example MIT) if you want others to reuse the code. -->
+This project is licensed under the [MIT License](LICENSE).
